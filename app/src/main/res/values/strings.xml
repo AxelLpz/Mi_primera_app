@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mi primera app</string>
+    <string name="Comp">Comparar Números</string>
+    <string name="textMayor">Calcular Mayor</string>
+   <string name="tNumero">Número</string>
+    <string name="tMayor">Mayor</string>
+
+</resources>
